@@ -1,0 +1,5 @@
+public stati void main (String[] args){
+
+	Rueda[] ruedas = {new Rueda(20,"Trafin"),
+		new Rueda(23,"Dunlop")};
+	Coche Coche1 = new Coche ("Azul", 80,3.2f, ruedas, new Motor ("Naftero", 100));
