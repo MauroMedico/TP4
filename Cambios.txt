@@ -1,2 +1,0 @@
-
-Commit 2: Se elimino los 4 txt (coche, main, rueda, motor).
